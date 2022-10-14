@@ -94,7 +94,7 @@ nav > a {
     font-family: var(--fonte-padrao);
     font-size: 20px;
     color: white ;
-    text-decoration: none;
+    text-decoration: none; 
     padding: 10px 5px ;
     margin-left: 5px;
     
